@@ -14,7 +14,7 @@ To set up this Node.js project, follow these steps:
    yarn install
    ```
 
-3. Create a .env file in the project root and fill in the following environment variables:
+3. Create a `.env` file in the project root and fill in the following environment variables. An refer to `.env.example`:
 
    ```BASH
    PRIVATE_KEY_1=YOUR_PRIVATE_KEY_1
